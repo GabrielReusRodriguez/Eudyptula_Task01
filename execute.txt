@@ -1,0 +1,6 @@
+sudo insmod ./task1_module.ko
+sudo rmmod task1_module
+
+[ 5326.737209] Hello World my id is: 7049f76c2121.
+[ 5346.318626] Bye World my id is: 7049f76c2121.
+
